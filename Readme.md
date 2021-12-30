@@ -4,7 +4,7 @@
 
  <h1 align = "center">MusicDisc</h1>
  <h3 align = "center">A advanced discord music bot</h3>
- <h4 align = "center"><a href = "https://discord.com/oauth2/authorize?client_id=904255428500807690&permissions=8&scope=bot">Invite OxyBoat</a> ~ <a href = "https://discord.gg/TtrBP6YUCn">Support Server</a></h4>
+ <h4 align = "center"><a href = "https://discord.com/oauth2/authorize?client_id=904255428500807690&permissions=8&scope=bot">Invite MusicDisc</a> ~ <a href = "https://discord.gg/TtrBP6YUCn">Support Server</a></h4>
 
 <p>
   <h2>Home</h2>
